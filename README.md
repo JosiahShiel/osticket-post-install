@@ -39,7 +39,7 @@ EXAMPLE 1A
 <img src="https://i.imgur.com/sKTIgXc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We will add agents in the "Agents" section while being logged in as an admin. We will then add information and preview items.
+Under admin Panel we will go to Agents -> Roles and add Supreme Admin
 </p>
 EXAMPLE 1B
 <p>
