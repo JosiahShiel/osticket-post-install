@@ -13,7 +13,7 @@
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>List of Prerequisites</h2>
 
@@ -30,7 +30,9 @@ osTicket was installed on a virtual machine through Azure, the installation inst
 
 STEP 1 – LOGGING INTO OSTICKET
 <p>
-Go to portal.azure.com to connect to the Virtual Machine that was created to look up the IP address and then use remote desktop to log into the VM. Then we open osTicket on the webbrowser with localhost/osTicket/. When we select "Settings" we see what is shwon in EXAMPLE 1A.
+Log onto osTicket at https://localhost/osTicket/ 
+  
+Go to "Settings" and you should see what is shown in EXAMPLE 1A.
 <p>
 EXAMPLE 1A
 <p>
