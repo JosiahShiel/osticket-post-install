@@ -17,7 +17,6 @@
 
 <h2>List of Prerequisites</h2>
 
-- Logging Into osTicket
 - Configure Roles
 - Configure Departments
 - Configure Teams
