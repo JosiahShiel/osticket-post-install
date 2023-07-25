@@ -26,7 +26,7 @@
 
 <h2>Installation Steps</h2>
 
-osTicket was installed on a virtual machine through Azure, the installation instructions are not included in this tutorial as STEP 1 begins with the software already installed. 
+osTicket was installed on a virtual machine through Azure, the installation instructions are outlined at https://github.com/josiahshiel/osticket-prereqs
 
 STEP 1 – LOGGING INTO OSTICKET
 <p>
