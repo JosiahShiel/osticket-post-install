@@ -37,14 +37,15 @@ Go to "Settings" and you should see what is shown in EXAMPLE 1A.
 <p>
 EXAMPLE 1A
 <p>
-<img src="https://i.imgur.com/sKTIgXc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="716" alt="1st" src="https://github.com/JosiahShiel/osticket-post-install/assets/139602019/78e51b04-7cf1-43a3-840c-740744bf190d">
+
 </p>
 <p>
 Under admin Panel we will go to Agents -> Roles and add Supreme Admin
 </p>
 EXAMPLE 1B
 <p>
-<img src="https://i.imgur.com/iHp42vC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="716" alt="2" src="https://github.com/JosiahShiel/osticket-post-install/assets/139602019/fcab1e8d-9cbf-42ef-a1e0-933b88c2b8de">
 </p>
 STEP 2 – CONFIGURE DEPARTMENTS
 <p>
@@ -54,12 +55,12 @@ We can configure departments by selecting the “Departments” button while sti
 <br />
 EXAMPLE 2A
 <p>
-<img src="https://i.imgur.com/mgdybmP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="716" alt="3" src="https://github.com/JosiahShiel/osticket-post-install/assets/139602019/c24e0b3f-2276-43ee-a993-857fc5d00b46">
 </p>
 <p>
 EXAMPLE 2B
 <p>
-<img src="https://i.imgur.com/Qs47jVs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="715" alt="4" src="https://github.com/JosiahShiel/osticket-post-install/assets/139602019/4e9ed2a5-7cb9-4b65-b81d-43363b29564d">
 </p>
 <p>
 STEP 3 - SETTING UP USERS AND AGENTS
@@ -70,7 +71,7 @@ In the users tab a few agents have been created to populate this project. In EXA
 <br />
 EXAMPLE 3A
 <p>
-<img src="https://i.imgur.com/iGWlgTG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="716" alt="5" src="https://github.com/JosiahShiel/osticket-post-install/assets/139602019/ee9e4576-c4c5-4649-ab2a-3208bdb4a374">
 </p>
 <p>
 Additionally by going to Admin Panel>Settings>User Settings we can allow anyone to create tickets by having the item unchecked named “Require registration and login to create tickets”. 
@@ -89,7 +90,7 @@ We can set up team by continuing to be in the admin panel>Agents>Teams as seen i
 <br />
 EXAMPLE 4A
 <p>
-<img src="https://i.imgur.com/ZodIGoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="717" alt="6" src="https://github.com/JosiahShiel/osticket-post-install/assets/139602019/7553cd30-5064-4c48-9d8f-a8dfaa26adda">
 </p>
 <p>
 <br />
@@ -100,14 +101,14 @@ Go to the “Admin Panel” at the top right of the page then select the tab Man
 </p>
 <br />
 EXAMPLE 5A
-<img src="https://i.imgur.com/pPfKjZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="716" alt="7" src="https://github.com/JosiahShiel/osticket-post-install/assets/139602019/dabf0a0b-21dc-4736-94d8-ee1e6da9a5f8">
 </p>
 <p>
 In EXAMPLE 5B we have created different SLA’s for the tickets depending on their severity. 
 </p>
 <br />
 EXAMPLE 5B
-<img src="https://i.imgur.com/Xo9ml9w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="716" alt="8" src="https://github.com/JosiahShiel/osticket-post-install/assets/139602019/564a9c8c-87ff-436b-b35a-142fbbb91e98">
 </p>
 <p>
 STEP 6 – CREATING HELP TOPICS
