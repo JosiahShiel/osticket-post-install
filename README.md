@@ -77,9 +77,7 @@ Additionally by going to Admin Panel>Settings>User Settings we can allow anyone 
 To add users (non-IT employees) go to the “Agent Panel” by selecting the icon on the top right of the screen. Here we can enter employees into the system. 
 </p>
 <br />
-EXAMPLE 3B
 <p>
-<img src="https://i.imgur.com/6GuiYLr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <br />
