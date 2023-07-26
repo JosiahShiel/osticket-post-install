@@ -118,14 +118,14 @@ Going to the tab “Manager” we see “Help Topics” display. We can add help
 </p>
 <br />
 EXAMPLE 6A
-<img src="https://i.imgur.com/HHXG23M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="715" alt="10" src="https://github.com/JosiahShiel/osticket-post-install/assets/139602019/6bb62d5c-39f5-4a90-b204-ce55b378a95b">
 </p>
 <p>
 Below we see several additional Help Topics have been added to the list such as Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset in EXAMPLE 6B.
 </p>
 <br />
 EXAMPLE 6B
-<img src="https://i.imgur.com/Wh0eoDI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="715" alt="9" src="https://github.com/JosiahShiel/osticket-post-install/assets/139602019/b8926bf8-f3b8-4bfe-b52b-1c72bc1beb3f">
 </p>
 <p>
 This concludes this project in setting up the osTicketing system which will allow for a good starting framework.
